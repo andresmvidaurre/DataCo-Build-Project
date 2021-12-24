@@ -1,2 +1,8 @@
 # DataCo-Build-Project
-Building machine learning models to predict shipping times (late or not late) using a dataset on Kaggle provided by DataCo Global
+Exploration of machine learning models to predict shipping times using a supply chain dataset from DataCo Global available on Kaggle.
+
+Completed: EDA, building of several models (logistic regression, random forest classification, xgb classficiation, and a randomized cv search of a xgbclassification model). The corresponding medium article can be accessed here.
+
+To-Do: further analysis of specific features and more hyperparameter tuning.
+
+Dataset and info found here: https://www.kaggle.com/shivkp/customer-behaviour?select=DescriptionDataCoSupplyChain.csv
